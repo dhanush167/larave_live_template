@@ -4,7 +4,7 @@ How to:
 
 1) Go to *Preferences | Tools | Settings Repository*
 
-2) Add Read-only Source https://github.com/koomai/phpstorm-laravel-live-templates
+2) Add Read-only Source https://github.com/kadawatha/larave_live_template.git
 
 3) Restart PhpStorm.
 
